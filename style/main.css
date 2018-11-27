@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri');
+.bg-1 {
+    background-color: #f8dd00; 
+    color: #454646;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 2em;
+}
+.bg-1 h1{
+    font-size: 3em;
+}
+.polaroid {
+    
+    background-color:  #f8dd00;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  .container {
+    text-align: center;
+    padding: 10px 20px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 36px;   
+  }
+.bg-2{
+    background-color: #e6e6e6; 
+}
+.container-fluid {
+    font-size: 25px;
+}
+.imgstyle{
+    margin-top: 5px;
+    
+}
+.collapsible {
+    background-color: rgb(238, 220, 183);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    padding: 5px;
+    width: 100%;
+    border: none;
+    text-align: center;
+    outline: none;
+    font-size: 20px;
+}
+.active, .collapsible:hover {
+    background-color: rgb(215, 226, 111);
+}
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+.col-sm-6{
+    height: 230px;
+    width: 100%;
+}
+.contact-li{
+    padding: 40px;
+}
+.navbar{
+    background-color: #f8dd00; 
+}
+
